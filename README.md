@@ -10,11 +10,10 @@
 
 ## 🚀 About Me
 
-> *"Lending shouldn't only happen between 9-5"* - That's my philosophy at **NorCapital Lending Corporation**
+> *"Disruptor"
 
-I'm a **Director of Operations** with 17+ years in the lending and finance industry, passionate about bridging traditional finance with cutting-edge technology. When I'm not optimizing operational workflows or building broker relationships, you'll find me diving deep into AI development, racing drones, or architecting cloud solutions.
-
-🏢 **Currently:** Executive Director of Operations at [NorCapital Lending Corporation](https://www.norcapitalcorp.com)  
+ 
+| [Newport Beach, CA]
 📍 **Location:** Newport Beach, CA  
 🎯 **Mission:** Creating solutions that meet client needs beyond traditional hours
 
