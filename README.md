@@ -90,7 +90,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/approval)
-[![Company](https://img.shields.io/badge/NorCapital-FF6B6B?style=for-the-badge&logo=building&logoColor=white)](https://www.norcapitalcorp.com)
+
 [![Phone](https://img.shields.io/badge/Call-949%20328%204347-green?style=for-the-badge&logo=phone&logoColor=white)](tel:9493284347)
 
 </div>
