@@ -101,7 +101,7 @@
 
 ### 💡 *"Innovation happens when traditional finance meets cutting-edge technology"*
 k
-**Available for consulting, collaboration, and real-time solutions** 🚀
+**Available for consulting, collaboration, and real-time solutions** 🚀b
 
 </div>
 
